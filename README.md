@@ -1,6 +1,6 @@
 #  Cybersec Study Notes
 
-Repositório com minhas anotações de estudo sobre cibersegurança - organizado como um curso, do básico ao mais avançado, à medida que eu for aprendendo.
+Repositório com minhas anotações de estudo sobre cibersegurança, organizado como um curso, do básico ao mais avançado!
 
 >  Material de estudo pessoal, com fins educacionais. Sem fins lucrativos.
 
