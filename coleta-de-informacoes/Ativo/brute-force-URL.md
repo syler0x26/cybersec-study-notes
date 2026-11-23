@@ -15,7 +15,7 @@ site.com/backup
 ```
 ## Como usar o dirb
 1. Baixar ou criar uma wordlist
- [Download da wordlist](https://raw.githubusercontent.com/syler0x26/cybersec-study-notes/main/coleta-de-informacoes/ativo/wordlist.txt)
+ [Download da wordlist](coleta-de-informacoes/Ativo/Wordlist.txt)
 
 Wordlists populares:
 
