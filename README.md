@@ -6,8 +6,6 @@ Repositório com minhas anotações de estudo sobre cibersegurança, organizado 
 
 ---
 
-##  Índice
-
 ### 01 - Coleta de informações
 - [Ativo vs passivo](coleta-de-informacoes/AtivoVspassivo.md/)
 - [Ativo](coleta-de-informacoes/Ativo/)
