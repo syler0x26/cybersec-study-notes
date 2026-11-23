@@ -14,7 +14,7 @@ Repositório com minhas anotações de estudo sobre cibersegurança - organizado
 - [Passivo](coleta-de-informacoes/passivo/)
 
 ### 02 Ataques
-- [Cross-site scripting (XSS)](ataques/Cross-site-scripting-XSS)
+- [Cross-site scripting (XSS)](ataques/Cross-site-scripting-XSS.md)
 
 ##  Aviso
 Todo conteúdo aqui é para fins educacionais. Técnicas de ataque descritas servem para entender como se defender - nunca para uso não autorizado.
