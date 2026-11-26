@@ -4,7 +4,7 @@ Injeção de código HTML/JavaScript malicioso em uma aplicação web vulneráve
 ## Nessa documentação deixarei um tutorial de como é feito os ataques, utilizarei o metasploitable para testar essa vuln.
 >Apenas para fins didáticos!
 # Menu de navegação
-- [Tutorial do XSS refletido](#tutorial-refletido)
+- [Tutorial do XSS refletido](#tutorial-do-xss-refletido)
 - [Onde as falhas ocorrem](#onde-as-falhas-ocorrem)
 - [Riscos de um XSS](#riscos-de-um-xss)
 
