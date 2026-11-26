@@ -58,7 +58,7 @@ não retornou os caracteres, porém ao visualizar o código fonte da página pod
 Se rodarmos um código malicioso em JavaScript podemos disparar alguma requisição. vamos disparar um alert 
 ```<script>alert('Xss refletido passou')</script>```
 
-![image](images/xss-5.png)
+![image](images/xss-5s.png)
 
 podemos ver que funcionou!
 
