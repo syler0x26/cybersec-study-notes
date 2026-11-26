@@ -29,6 +29,9 @@ Referência: [owasp.org](https://owasp.org), tem uma tabela de classificação d
 O ataque não fica salvo em lugar nenhum, ele só "reflete" de volta na resposta da página, então você precisa convencer a vítima a clicar em um link malicioso específico (ex: um parâmetro de busca manipulado na URL).
 
 ### Testando (ambiente de laboratório : DVWA)
+
+---
+
 ## Tutorial do XSS refletido
 
 **Nível Low**, sem nenhuma proteção, o código é escrito direto na página:
